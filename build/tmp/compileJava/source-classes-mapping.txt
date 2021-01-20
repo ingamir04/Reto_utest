@@ -1,0 +1,18 @@
+utest/prueba/userinterfaces/UtestRegistroPassword.java
+ utest.prueba.userinterfaces.UtestRegistroPassword
+utest/prueba/model/UtestData.java
+ utest.prueba.model.UtestData
+utest/prueba/tasks/Abrir.java
+ utest.prueba.tasks.Abrir
+utest/prueba/userinterfaces/UtestRegistro1.java
+ utest.prueba.userinterfaces.UtestRegistro1
+utest/prueba/userinterfaces/UtestRegistro3.java
+ utest.prueba.userinterfaces.UtestRegistro3
+utest/prueba/questions/Respuesta.java
+ utest.prueba.questions.Respuesta
+utest/prueba/userinterfaces/UtestPagina.java
+ utest.prueba.userinterfaces.UtestPagina
+utest/prueba/tasks/Registro.java
+ utest.prueba.tasks.Registro
+utest/prueba/userinterfaces/UtestRegistro2.java
+ utest.prueba.userinterfaces.UtestRegistro2
